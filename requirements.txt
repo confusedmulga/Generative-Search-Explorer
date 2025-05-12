@@ -1,0 +1,19 @@
+fastapi
+uvicorn[standard]
+httpx
+python-dotenv
+openai          # or your LLM client (e.g., google-generativeai)
+langchain       # for RAG helpers
+pydantic
+pytest
+feedparser
+httpx
+arxiv
+praw
+sentence-transformers
+faiss-cpu
+langchain
+ sentence-transformers
+ faiss-cpu
+ langchain
++langchain-community
